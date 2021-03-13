@@ -1,6 +1,6 @@
-# Icmp-Syn-Flood
+# Icmp-Syn-Xmas-Flood
 
-Demonstrating ICMP and SYN flood attacks to analyze results.
+Demonstrating ICMP, SYN, Xmas flood attacks to analyze results.
 
 Use only educational purposes !
 
