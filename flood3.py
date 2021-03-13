@@ -2,7 +2,7 @@
 #@EmreOvunc
 #@0x00
 #Source - https://github.com/EmreOvunc/Icmp-Syn-Flood
-#pip3 install scapy
+#Requirements - pip3 install scapy
 from scapy.all import *
 
 
